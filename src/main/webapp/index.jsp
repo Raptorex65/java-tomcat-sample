@@ -6,6 +6,7 @@
   <h3> Well done GOOD JOB!!.... </h3>
    <h3> Welcome!!.... </h3>
    <h3> Deploy Pipeline!!!.... </h3>
+   <h3> Deploy Staging env Test!!!.... </h3>
 </body>
 </body>
 </html>
